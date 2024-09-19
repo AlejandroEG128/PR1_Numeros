@@ -1,0 +1,22 @@
+# PR1_Numeros
+Manejo de tipo de numeros
+
+#La siguiente practica es de asignacion de numeros (integer) a variables
+#    definidas por mí
+
+print (" ")
+print ("Escobedo Granados Alejandro : Mi practica de Numeros integer, float, complejo")
+print (" ")
+
+
+x=(1)
+y=(2.1)
+z=(1j)
+
+print (type(x))
+print (type(y))
+print (type(z))
+
+print (" ")
+
+
